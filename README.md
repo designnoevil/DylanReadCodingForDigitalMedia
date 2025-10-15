@@ -8,7 +8,7 @@ From there, I focused on building the core that makes the app work:
 	3.	Use those values to animate a shape on screen.
 Everything else in the code supports those three steps.
 
-after imports and page set up and the first major function I wrote was:
+
 '''def find_first_track():
     # scans MUSIC_DIR, returns first .mp3 or None with clear prints
 
