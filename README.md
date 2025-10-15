@@ -1,4 +1,5 @@
 # Audio-Reactive Polygon with Dorothy
+It listens to live music playback and translates sound features (like loudness and bass energy) into changes in a dynamic polygon drawn on screen. The main idea is to connect sound analysis with generative graphics in real time.
 
 At the start, I only had a blank Dorothy window — no music playback, no visuals, just a static screen.
 From there, I focused on building the core that makes the app work:
